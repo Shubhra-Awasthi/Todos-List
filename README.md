@@ -61,7 +61,7 @@ react-todo-list/
 
 ## 📸 Screenshots
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](assets/screenshot.png)
 
 ## 👨‍💻 Author
 
