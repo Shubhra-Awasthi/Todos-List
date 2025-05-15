@@ -24,4 +24,6 @@ yarn-error.log*
 
 
 #files
-Components/
+Components/About.js
+Components/AddTodo.js
+Components/Todo.js
