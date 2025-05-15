@@ -26,4 +26,3 @@ yarn-error.log*
 #files
 Components/
 src/App.js
-public/index.html
